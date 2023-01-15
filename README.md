@@ -1,2 +1,2 @@
 # MedilanceApp
-![ScreenShot](/screenshots/Screenshot_20221006_052829.png)
+![image](/screenshots/Screenshot_20221006_052829.png)
