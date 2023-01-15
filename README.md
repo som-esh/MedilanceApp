@@ -10,11 +10,13 @@ This application has three main tabs:
 The Home Page consists of sections like Testimonials, Details and type of products Offered.
 There is a floating WhatsApp button that can redirect to the company’s WhatsApp account directly, in case of general queries. The images on the homepage are implemented using rows and scrollable vertically.
 The product list button redirects to the original website to buy and order the products offered by the company. We can add the items in the basket and check out accordingly.
+
 # Structure
 The designed is inspired by OOPS.
 <div>
   <img src="/Screenshots/Screenshot (26).png" height="600">
 </div>
+
 # Screenshots
 <div>
   <img src="/Screenshots/Screenshot_20221006_052829.png" height="600">
