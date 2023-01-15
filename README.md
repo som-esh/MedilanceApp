@@ -12,14 +12,10 @@ There is a floating WhatsApp button that can redirect to the company’s WhatsAp
 The product list button redirects to the original website to buy and order the products offered by the company. We can add the items in the basket and check out accordingly.
 # Screenshots
 <div>
-  <img src="/Screenshots/Screenshot_20221006_052829.png">
+  <img src="/Screenshots/Screenshot_20221006_052829.png" height="200">
   <img src="/Screenshots/Screenshot_20221006_052910.png">
   <img src="/Screenshots/Screenshot_20221006_053000.png">
   <img src="/Screenshots/Screenshot_20221006_053227.png">
   <img src="/Screenshots/Screenshot_20221006_062948.png">
 </div>
-![image](/Screenshots/Screenshot_20221006_052829.png)
-![image](/Screenshots/Screenshot_20221006_052910.png)
-![image](/Screenshots/Screenshot_20221006_053000.png)
-![image](/Screenshots/Screenshot_20221006_053227.png)
-![image](/Screenshots/Screenshot_20221006_062948.png)
+
